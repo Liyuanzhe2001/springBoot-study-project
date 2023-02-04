@@ -1,7 +1,5 @@
 # springBoot-study-project
 
-# 参考自B站‘遇见狂神说’
-
 视频链接：https://www.bilibili.com/video/BV1PE411i7CV
 
 
